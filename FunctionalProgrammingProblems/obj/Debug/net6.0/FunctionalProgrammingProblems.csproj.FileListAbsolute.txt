@@ -1,0 +1,15 @@
+C:\Users\ak\Desktop\BridgeLabz Project\FunctionalProgrammingProblems\FunctionalProgrammingProblems\bin\Debug\net6.0\FunctionalProgrammingProblems.exe
+C:\Users\ak\Desktop\BridgeLabz Project\FunctionalProgrammingProblems\FunctionalProgrammingProblems\bin\Debug\net6.0\FunctionalProgrammingProblems.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\FunctionalProgrammingProblems\FunctionalProgrammingProblems\bin\Debug\net6.0\FunctionalProgrammingProblems.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\FunctionalProgrammingProblems\FunctionalProgrammingProblems\bin\Debug\net6.0\FunctionalProgrammingProblems.dll
+C:\Users\ak\Desktop\BridgeLabz Project\FunctionalProgrammingProblems\FunctionalProgrammingProblems\bin\Debug\net6.0\ref\FunctionalProgrammingProblems.dll
+C:\Users\ak\Desktop\BridgeLabz Project\FunctionalProgrammingProblems\FunctionalProgrammingProblems\bin\Debug\net6.0\FunctionalProgrammingProblems.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\FunctionalProgrammingProblems\FunctionalProgrammingProblems\obj\Debug\net6.0\FunctionalProgrammingProblems.csproj.AssemblyReference.cache
+C:\Users\ak\Desktop\BridgeLabz Project\FunctionalProgrammingProblems\FunctionalProgrammingProblems\obj\Debug\net6.0\FunctionalProgrammingProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\FunctionalProgrammingProblems\FunctionalProgrammingProblems\obj\Debug\net6.0\FunctionalProgrammingProblems.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\FunctionalProgrammingProblems\FunctionalProgrammingProblems\obj\Debug\net6.0\FunctionalProgrammingProblems.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\FunctionalProgrammingProblems\FunctionalProgrammingProblems\obj\Debug\net6.0\FunctionalProgrammingProblems.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\FunctionalProgrammingProblems\FunctionalProgrammingProblems\obj\Debug\net6.0\FunctionalProgrammingProblems.dll
+C:\Users\ak\Desktop\BridgeLabz Project\FunctionalProgrammingProblems\FunctionalProgrammingProblems\obj\Debug\net6.0\ref\FunctionalProgrammingProblems.dll
+C:\Users\ak\Desktop\BridgeLabz Project\FunctionalProgrammingProblems\FunctionalProgrammingProblems\obj\Debug\net6.0\FunctionalProgrammingProblems.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\FunctionalProgrammingProblems\FunctionalProgrammingProblems\obj\Debug\net6.0\FunctionalProgrammingProblems.genruntimeconfig.cache
